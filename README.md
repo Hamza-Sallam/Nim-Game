@@ -3,3 +3,8 @@ I built the game with two modes, multiplayer and vs computer mode
 
 in vs computer mode, if you start you will ALWAYS loose, i used logic to make an unbeatble computer
 but if the computer starts, you might have a chance if you really know how to play!
+
+![Screenshot of the application](sc.png)
+
+
+[Watch the video](https://youtu.be/qtZL8bHFvi8)
